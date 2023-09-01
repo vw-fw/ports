@@ -1,0 +1,14 @@
+bin/mumble
+lib/libmumbleoverlay.x86_64.so
+lib/libmumbleoverlay.x86_64.so.%%MAJORVERSION%%
+lib/libmumbleoverlay.x86_64.so.%%MINORVERSION%%
+lib/libmumbleoverlay.x86_64.so.%%PATCHVERSION%%
+lib/libmumbleoverlay.x86.so
+lib/libmumbleoverlay.x86.so.%%MAJORVERSION%%
+lib/libmumbleoverlay.x86.so.%%MINORVERSION%%
+lib/libmumbleoverlay.x86.so.%%PATCHVERSION%%
+share/applications/mumble.desktop
+share/icons/hicolor/256x256/apps/mumble.png
+share/icons/hicolor/scalable/apps/mumble.svg
+share/man/man1/mumble.1.gz
+share/pixmaps/mumble.xpm

@@ -1,0 +1,5 @@
+TIMESTAMP = 1688752625
+SHA256 (jotta-cli-0.15.84961_freebsd_amd64.tar.gz) = 1ec72403d9001173c17896a487e9e1dc6c73de94d906ee4707b02f51183a6e87
+SIZE (jotta-cli-0.15.84961_freebsd_amd64.tar.gz) = 14149276
+SHA256 (jotta-cli-0.15.84961_freebsd_386.tar.gz) = 15b585c27ccd84d58845b9e7329efd7a92ce70c4954eb116f52c7fe4dcf3bc60
+SIZE (jotta-cli-0.15.84961_freebsd_386.tar.gz) = 13639025

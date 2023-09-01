@@ -1,0 +1,5 @@
+TIMESTAMP = 1691659294
+SHA256 (go/devel_goreleaser/goreleaser-v1.20.0/v1.20.0.mod) = a6a256362550e5bc5df86d93072fece758029aa6e1151ece37394b5d4d403245
+SIZE (go/devel_goreleaser/goreleaser-v1.20.0/v1.20.0.mod) = 13638
+SHA256 (go/devel_goreleaser/goreleaser-v1.20.0/v1.20.0.zip) = d3d096bb5f1f7010dd84fe6817df82645c575e67a73ea917d0be840d1f14ac45
+SIZE (go/devel_goreleaser/goreleaser-v1.20.0/v1.20.0.zip) = 1135458

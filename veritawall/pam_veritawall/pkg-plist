@@ -1,0 +1,5 @@
+etc/pam.d/veritawall-login
+lib/pam_veritawall.so
+libexec/veritawall-pam
+man/man8/veritawall-login.8.gz
+sbin/veritawall-login

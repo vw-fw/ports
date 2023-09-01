@@ -1,0 +1,18 @@
+@postunexec mv %%PREFIX%%/sbin/veritawall-bootstrap.bak %%PREFIX%%/sbin/veritawall-bootstrap
+@preunexec cp %%PREFIX%%/sbin/veritawall-bootstrap %%PREFIX%%/sbin/veritawall-bootstrap.bak
+man/man8/veritawall-bootstrap.8.gz
+man/man8/veritawall-code.8.gz
+man/man8/veritawall-fetch.8.gz
+man/man8/veritawall-patch.8.gz
+man/man8/veritawall-revert.8.gz
+man/man8/veritawall-sign.8.gz
+man/man8/veritawall-update.8.gz
+man/man8/veritawall-verify.8.gz
+sbin/veritawall-bootstrap
+sbin/veritawall-code
+sbin/veritawall-fetch
+sbin/veritawall-patch
+sbin/veritawall-revert
+sbin/veritawall-sign
+sbin/veritawall-update
+sbin/veritawall-verify
