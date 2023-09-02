@@ -3,7 +3,7 @@ DISTVERSION=	0.4
 PORTEPOCH=	1
 CATEGORIES=	net
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Multicast forwarding IGMP proxy
 WWW=		https://github.com/pali/igmpproxy
 

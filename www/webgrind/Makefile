@@ -3,7 +3,7 @@ DISTVERSIONPREFIX=	v
 DISTVERSION=	1.9.2
 CATEGORIES=	www
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Xdebug Profiling Web Frontend in PHP
 WWW=		https://github.com/jokkedk/webgrind
 

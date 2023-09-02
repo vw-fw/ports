@@ -4,7 +4,7 @@ PORTREVISION=	3
 CATEGORIES=	net-mgmt
 MASTER_SITES=	https://pkg.opnsense.org/distfiles
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Small, fast, and secure NetFlow collector
 WWW=		https://www.mindrot.org/projects/flowd/
 

@@ -3,7 +3,7 @@ PORTVERSION=	23.7.2
 CATEGORIES=	sysutils
 PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Veritawall update utilities
 WWW=		https://veritawall.com/
 

@@ -3,9 +3,9 @@ DISTVERSION=	20230530
 DISTVERSIONPREFIX=v
 CATEGORIES=	net
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	vivek.panchal@veritawall.com
 COMMENT=	Veritawall WIDE-DHCPv6 client
-WWW=		http://192.168.1.36/opnsense-local/dhcp6c/
+WWW=		https://github.com/vw-fw/dhcp6c/
 
 LICENSE=	BSD3CLAUSE
 LICENSE_FILE=	${WRKSRC}/COPYRIGHT

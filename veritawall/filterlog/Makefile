@@ -5,7 +5,7 @@ MASTER_SITES=	# empty
 DISTFILES=	# none
 EXTRACT_ONLY=	# empty
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Parse pflog(4) output
 
 LICENSE=	BSD3CLAUSE

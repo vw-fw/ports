@@ -5,7 +5,7 @@ MASTER_SITES=	# empty
 DISTFILES=	# none
 EXTRACT_ONLY=	# empty
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Gather system statistics
 
 WHERE=		sbin

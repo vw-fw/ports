@@ -17,7 +17,7 @@ PATCHFILES=	fa6c95f.patch:-p1 \
 		1a6e443.patch:-p1 \
 		8d3a383.patch:-p1
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Update dynamic DNS entries
 WWW=		https://github.com/ddclient/ddclient
 

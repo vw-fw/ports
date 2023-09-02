@@ -4,7 +4,7 @@ PORTREVISION=	1
 CATEGORIES=	security
 MASTER_SITES=	https://www.openinfosecfoundation.org/download/
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	High Performance Network IDS, IPS and Security Monitoring engine
 WWW=		https://suricata-ids.org
 

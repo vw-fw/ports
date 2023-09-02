@@ -5,7 +5,7 @@ EXTRACT_SUFX=	.zip
 CATEGORIES=	devel
 PKGNAMEPREFIX=	${PHP_PKGNAMEPREFIX}
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Google APIs Client Library for PHP
 WWW=		https://github.com/googleapis/google-api-php-client
 

@@ -4,7 +4,7 @@ PORTREVISION=	1
 CATEGORIES=	sysutils
 DISTFILES=
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	Interface statistics reader
 
 LICENSE=	MIT

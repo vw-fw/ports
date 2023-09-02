@@ -1,5 +1,5 @@
 From 63ae8b7d9e304aacde2d077778927972302ead03 Mon Sep 17 00:00:00 2001
-From: Ad Schellevis <nitish.patel@veritawall.com>
+From: Ad Schellevis <franco@opnsense.org>
 Date: Thu, 30 Apr 2020 11:03:00 +0200
 Subject: [PATCH] When using mutual certificate authentication, we know which
  client was responsible for starting the session on the remote end. let's send

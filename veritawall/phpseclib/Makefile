@@ -3,7 +3,7 @@ DISTVERSION=	3.0.21
 CATEGORIES=	security devel
 PKGNAMEPREFIX=	${PHP_PKGNAMEPREFIX}
 
-MAINTAINER=	nitish.patel@veritawall.com
+MAINTAINER=	franco@opnsense.org
 COMMENT=	PHP Secure Communications Library
 WWW=		https://phpseclib.com
 
