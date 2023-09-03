@@ -1,11 +1,11 @@
 PORTNAME=	installer
-PORTVERSION=	23.1
+PORTVERSION=	1.9
 CATEGORIES=	sysutils
 PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
 MAINTAINER=	franco@opnsense.org
 COMMENT=	Veritawall installer scripts
-WWW=		https://opnsense.org/
+WWW=		#empty  https://opnsense.org/
 
 LICENSE=	BSD2CLAUSE
 
