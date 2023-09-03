@@ -1,18 +1,18 @@
-@postunexec mv %%PREFIX%%/sbin/veritawall-bootstrap.bak %%PREFIX%%/sbin/veritawall-bootstrap
-@preunexec cp %%PREFIX%%/sbin/veritawall-bootstrap %%PREFIX%%/sbin/veritawall-bootstrap.bak
-man/man8/veritawall-bootstrap.8.gz
-man/man8/veritawall-code.8.gz
-man/man8/veritawall-fetch.8.gz
-man/man8/veritawall-patch.8.gz
-man/man8/veritawall-revert.8.gz
-man/man8/veritawall-sign.8.gz
-man/man8/veritawall-update.8.gz
-man/man8/veritawall-verify.8.gz
-sbin/veritawall-bootstrap
-sbin/veritawall-code
-sbin/veritawall-fetch
-sbin/veritawall-patch
-sbin/veritawall-revert
-sbin/veritawall-sign
-sbin/veritawall-update
-sbin/veritawall-verify
+@postunexec mv %%PREFIX%%/sbin/opnsense-bootstrap.bak %%PREFIX%%/sbin/veritawall-bootstrap
+@preunexec cp %%PREFIX%%/sbin/opnsense-bootstrap %%PREFIX%%/sbin/veritawall-bootstrap.bak
+man/man8/opnsense-bootstrap.8.gz
+man/man8/opnsense-code.8.gz
+man/man8/opnsense-fetch.8.gz
+man/man8/opnsense-patch.8.gz
+man/man8/opnsense-revert.8.gz
+man/man8/opnsense-sign.8.gz
+man/man8/opnsense-update.8.gz
+man/man8/opnsense-verify.8.gz
+sbin/opnsense-bootstrap
+sbin/opnsense-code
+sbin/opnsense-fetch
+sbin/opnsense-patch
+sbin/opnsense-revert
+sbin/opnsense-sign
+sbin/opnsense-update
+sbin/opnsense-verify
