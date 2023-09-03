@@ -1,10 +1,10 @@
 PORTNAME=	lang
-PORTVERSION=	22.7.3
+PORTVERSION=	23.7.3
 CATEGORIES=	sysutils
 PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
 MAINTAINER=	franco@opnsense.org
-COMMENT=	Veritawall translations
+COMMENT=	OPNsense translations
 WWW=		https://translate.opnsense.org/
 
 LICENSE=	BSD2CLAUSE
