@@ -5,7 +5,7 @@ CATEGORIES=	net
 
 MAINTAINER=	franco@opnsense.org
 COMMENT=	Veritawall WIDE-DHCPv6 client
-WWW=		#empty https://github.com/opnsense/dhcp6c/
+WWW=		https://github.com/opnsense/dhcp6c/
 
 LICENSE=	BSD3CLAUSE
 LICENSE_FILE=	${WRKSRC}/COPYRIGHT
