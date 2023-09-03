@@ -1,4 +1,4 @@
-PORTNAME=	pam_veritawall
+PORTNAME=	pam_opnsense
 PORTVERSION=	19.1.3
 CATEGORIES=	sysutils
 
@@ -8,7 +8,7 @@ COMMENT=	Veritawall shared authentication system using PAM
 LICENSE=	BSD2CLAUSE
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	vw-fw
+GH_ACCOUNT=	opnsense
 
 post-stage:
 	${RM} ${STAGEDIR}${PREFIX}/lib/*.a
