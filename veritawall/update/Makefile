@@ -5,7 +5,7 @@ PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
 MAINTAINER=	franco@opnsense.org
 COMMENT=	Veritawall update utilities
-WWW=		https://veritawall.com/
+WWW=		#empty https://veritawall.com/
 
 LICENSE=	BSD2CLAUSE
 
