@@ -5,7 +5,7 @@ PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
 MAINTAINER=	franco@opnsense.org
 COMMENT=	Veritawall translations
-WWW=		https://translate.opnsense.org/
+WWW=		#empty https://translate.opnsense.org/
 
 LICENSE=	BSD2CLAUSE
 
