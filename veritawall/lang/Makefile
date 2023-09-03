@@ -4,7 +4,7 @@ CATEGORIES=	sysutils
 PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
 MAINTAINER=	franco@opnsense.org
-COMMENT=	OPNsense translations
+COMMENT=	Veritawall translations
 WWW=		https://translate.opnsense.org/
 
 LICENSE=	BSD2CLAUSE
