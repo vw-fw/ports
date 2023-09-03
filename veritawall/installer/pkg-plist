@@ -1,8 +1,8 @@
-libexec/bsdinstall/veritawall
-libexec/bsdinstall/veritawall-import
-libexec/bsdinstall/veritawall-install
-libexec/bsdinstall/veritawall-reset
-libexec/bsdinstall/veritawall-rootpass
-libexec/bsdinstall/veritawall-ufs
-libexec/bsdinstall/veritawall-zfs
-libexec/bsdinstall/veritawall.subr
+libexec/bsdinstall/opnsense
+libexec/bsdinstall/opnsense-import
+libexec/bsdinstall/opnsense-install
+libexec/bsdinstall/opnsense-reset
+libexec/bsdinstall/opnsense-rootpass
+libexec/bsdinstall/opnsense-ufs
+libexec/bsdinstall/opnsense-zfs
+libexec/bsdinstall/opnsense.subr
