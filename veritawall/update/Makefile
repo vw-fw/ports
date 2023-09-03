@@ -1,11 +1,11 @@
 PORTNAME=	update
-PORTVERSION=	1.9
+PORTVERSION=	23.7.2
 CATEGORIES=	sysutils
 PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
 MAINTAINER=	franco@opnsense.org
 COMMENT=	Veritawall update utilities
-WWW=		#empty https://veritawall.com/
+WWW=		https://opnsense.org/
 
 LICENSE=	BSD2CLAUSE
 
@@ -17,6 +17,6 @@ MAKE_ENV=	UPDATE_RELEASE=${PORTVERSION}
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	${CATEGORIES:[1]}
-GH_TAGNAME=	1.9
+GH_TAGNAME=	23.7
 
 .include <bsd.port.mk>
