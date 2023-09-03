@@ -1,4 +1,4 @@
-PORTNAME=	pam_opnsense
+PORTNAME=	pam_veritawall
 PORTVERSION=	19.1.3
 CATEGORIES=	sysutils
 
